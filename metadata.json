@@ -1,0 +1,6 @@
+{
+  "name": "SiJentik RW - Pemantauan Bebas Jentik",
+  "description": "Aplikasi pelaporan bebas jentik RW dengan pemetaan rumah interaktif, grafik tren ABJ, sinkronisasi luring, enkripsi data pasien, dan 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
